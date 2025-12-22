@@ -56,7 +56,7 @@ const projects = [
 		type: "video",
 		date: "2024",
 		yt: "/",
-		foto: ["/assets/images/luik.jpg", "/assets/images/luik1.jpg", "/assets/images/luik2.jpg", "/assets/images/luik3.jpg", "/assets/images/luik5.jpg"],
+		foto: ["/assets/images/luik.jpg", "/assets/images/luik2.jpg", "/assets/images/luik3.jpg", "/assets/images/luik4.jpg", "/assets/images/luik5.jpg"],
 		genre:"documentaire",
 		desc: "Luik"
 	},
@@ -68,7 +68,7 @@ const projects = [
 		date: "2024",
 		yt: "/",
 		genre:"foto's",
-		foto: ["/assets/images/leuven.jpg", "/assets/images/leuven1.jpg", "/assets/public/images/leuven2.jpg", "/assets/images/leuven3.jpg"],
+		foto: ["/assets/images/leuven.jpg", "/assets/images/leuven1.jpg", "/assets/images/leuven2.jpg", "/assets/images/leuven3.jpg"],
 		desc: "Leuven"
 	},
 	{

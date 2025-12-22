@@ -90,9 +90,8 @@ export default function WorkItem({ project }) {
 					className="fixed inset-0 z-[2000] bg-black/80 backdrop-blur-md flex items-center justify-center p-4 md:p-8"
 					onClick={closeModal}
 				>
-					{/* Modal Content */}
 					<div
-						className="relative w-full max-w-5xl max-h-[90vh] bg-neutral-950 overflow-hidden animate-modal-in"
+						className="relative w-full max-w-5xl max-h-[90vh] bg-neutral-950 overflow-hidden animate-modal-in rounded-3xl scroll-hidden"
 						onClick={(e) => e.stopPropagation()}
 					>
 						{/* Close Button */}
