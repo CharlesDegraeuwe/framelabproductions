@@ -11,19 +11,21 @@ import cinestack from "../../../public/assets/home/svgs/cinestack.svg";
 import editingIcon from "../../../public/assets/home/editing.png";
 import diefte1 from "../../../public/projects/diefte.jpg";
 import { Link } from "react-router";
+import {Helmet} from "react-helmet-async";
+import SEO from "../../seo/Seo.jsx";
 
 export default function Home() {
 	const { t } = useTranslation();
 
-	return (
-		<div className="w-full min-h-screen font-sfpro">
+	return (<>
+			<SEO page="home" />
+			<div className="w-full min-h-screen font-sfpro">
 			<div className="fixed inset-0 z-0">
 				<Carrousel />
 			</div>
 			<div className="relative z-10 mt-[110vh] bg-blah">
 				<div className="absolute -top-12 left-0 right-0 h-12 bg-blah rounded-t-[3rem]" />
 
-				{/* Wat We Doen Section */}
 				<section className="px-6 md:px-16 pt-20 pb-16 md:pt-28 md:pb-24">
 					<div className="max-w-6xl mx-auto">
 						<div className="flex flex-row items-baseline gap-3 md:gap-5 mb-12 md:mb-16">
@@ -335,5 +337,6 @@ export default function Home() {
 				</section>
 			</div>
 		</div>
+		</>
 	);
 }
