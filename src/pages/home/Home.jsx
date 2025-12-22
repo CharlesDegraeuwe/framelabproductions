@@ -294,17 +294,17 @@ export default function Home() {
 									<img
 										src={charles}
 										alt="Charles"
-										className="absolute w-48 md:w-64 h-60 md:h-80 object-cover shadow-2xl transform -rotate-6 -translate-x-8 hover:rotate-0 hover:-translate-y-2 transition-all duration-500 cursor-pointer grayscale hover:grayscale-0"
+										className="absolute w-48 md:w-64 h-60 md:h-80 object-cover shadow-2xl transform -rotate-6 -translate-x-8 hover:rotate-0 hover:-translate-y-2 transition-all duration-500 cursor-pointer grayscale hover:z-40 hover:grayscale-0"
 									/>
 									<img
 										src={lennert}
 										alt="Lennert"
-										className="absolute w-48 md:w-64 h-60 md:h-80 object-cover shadow-2xl transform rotate-6 translate-x-8 hover:rotate-0 hover:-translate-y-2 transition-all duration-500 cursor-pointer z-10 grayscale hover:grayscale-0"
+										className="absolute w-48 md:w-64 h-60 md:h-80 object-cover shadow-2xl transform rotate-6 translate-x-8 hover:rotate-0 hover:-translate-y-2 transition-all duration-500 cursor-pointer z-10 hover:z-40 grayscale hover:grayscale-0"
 									/>
 									<img
 										src={lennert2}
 										alt="Team"
-										className="absolute w-48 md:w-64 h-60 md:h-80 object-cover shadow-2xl transform translate-y-16 hover:translate-y-12 transition-all duration-500 cursor-pointer z-20 grayscale hover:grayscale-0"
+										className="absolute w-48 md:w-64 h-60 md:h-80 object-cover shadow-2xl transform translate-y-16 hover:translate-y-12 transition-all duration-500 cursor-pointer z-20 hover:z-40 grayscale hover:grayscale-0"
 									/>
 								</div>
 							</div>
@@ -312,7 +312,6 @@ export default function Home() {
 					</div>
 				</section>
 
-				{/* CTA Section */}
 				<section className="px-6 md:px-16 py-20 md:py-32 bg-gradient-to-b from-transparent to-black/50">
 					<div className="max-w-4xl mx-auto text-center">
 						<h2 className="font-miller font-stretch-extra-expanded font-extralight uppercase italic text-3xl sm:text-4xl md:text-6xl mb-4">

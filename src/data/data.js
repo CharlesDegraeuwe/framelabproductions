@@ -15,7 +15,7 @@ const projects = [
 		url: "/projects/diefte.jpg",
 		type: "video",
 		date: "2025",
-		yt: "www.youtube.com/watch?v=csGHkaYVfcg",
+		yt: "https://www.youtube.com/watch?v=csGHkaYVfcg",
 		genre:"langspeelfilm",
 		desc: "diefte"
 	},
