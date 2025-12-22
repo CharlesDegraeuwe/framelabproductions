@@ -1,0 +1,180 @@
+{
+  "nav": {
+    "home": "home",
+    "work": "werk",
+    "about": "over ons",
+    "contact": "contact",
+    "contactUs": "contacteer ons",
+    "menu": "Menu",
+    "startProject": "Start een project"
+  },
+  "home": {
+    "heroTagline1": "videografie op maat",
+    "heroTitle1": "Turning Moments",
+    "heroSubtitle1": "into Motion",
+    "heroTagline2": "creatieve visie",
+    "heroTitle2": "Stories That",
+    "heroSubtitle2": "Move You",
+    "viewWork": "Bekijk ons werk",
+    "scroll": "Scroll",
+    "whatWeDo": {
+      "title1": "wat we",
+      "title2": "doen",
+      "description1": "Van filmen tot post-productie, we behandelen het gehele creatieve proces met zorg en aandacht voor detail. Altijd geleid door sterke verhalen en visuele impact.",
+      "description2": "Duidelijke communicatie en nauwe samenwerking met onze klanten staan centraal in alles wat we doen, waardoor elk project hun unieke visie weerspiegelt.",
+      "cta": "Start een project"
+    },
+    "services": {
+      "title1": "onze",
+      "title2": "diensten",
+      "brainstorm": {
+        "title": "Brainstormen",
+        "description": "Samenwerken met u om creatieve ideeën te laten ontstaan en unieke concepten te verkennen."
+      },
+      "production": {
+        "title": "Productie",
+        "description": "Van concept tot uitvoering, we beheren alle aspecten van het filmproces."
+      },
+      "postProduction": {
+        "title": "Post-Productie",
+        "description": "Naadloze montage, kleurcorrectie en geluidsontwerp voor het perfecte eindproduct."
+      }
+    },
+    "featuredWork": {
+      "title1": "ons",
+      "title2": "werk",
+      "featured": "Uitgelicht Project",
+      "deDiefte": {
+        "title": "De Diefte",
+        "description": "Een Belgische detective-thriller die de beruchte diefstal van de panelen van het Lam Gods in 1934 onderzoekt. Wij droegen bij als cameraman en editor voor deze door de gemeenschap gedreven film."
+      },
+      "tags": {
+        "cinematography": "Cinematografie",
+        "editing": "Montage",
+        "colorGrading": "Kleurcorrectie"
+      },
+      "viewAll": "Bekijk alle projecten"
+    },
+    "whoWeAre": {
+      "title1": "wie wij",
+      "title2": "zijn",
+      "description1": "We werken sinds 2023 samen en combineren onze individuele vaardigheden om dynamische videocontent te creëren.",
+      "description2": "Lennert is het brein achter het filmen en camerawerk, terwijl Charles de leiding neemt in montage, kleurcorrectie en post-productie.",
+      "cinematography": "Cinematografie",
+      "postProduction": "Post-Productie",
+      "moreAbout": "Meer over ons"
+    },
+    "cta": {
+      "title1": "Klaar om te",
+      "title2": "beginnen?",
+      "description": "Laten we samen iets moois creëren. Neem contact met ons op om uw project te bespreken.",
+      "button": "Neem contact op"
+    }
+  },
+  "about": {
+    "title1": "over",
+    "title2": "ons",
+    "cinematography": "Cinematografie",
+    "postProduction": "Post-Productie",
+    "description": {
+      "line1": "Framelab Productions is {{years}} jaar geleden begonnen toen we elkaar ontmoetten.",
+      "line2": "Hoewel we allebei al meer dan zeven jaar ervaring hadden in montage en fotografie,",
+      "line3": "begonnen we samen te werken door onze urbex-avonturen te filmen.",
+      "line4": "Wat begon als een leuk project groeide al snel uit tot een passie voor cinematografie en kleurcorrectie.",
+      "line5": "Na verloop van tijd verfijnden we onze vaardigheden, experimenteerden met belichting, compositie en post-productie,",
+      "line6": "wat uiteindelijk leidde tot de oprichting van Framelab Productions — een klein maar ambitieus duo dat zich toelegt op het maken van visueel opvallende en gedenkwaardige content."
+    }
+  },
+  "work": {
+    "title1": "ons",
+    "title2": "werk",
+    "filters": {
+      "corporate": "Bedrijfsvideo's & Advertenties",
+      "shortFilms": "Kortfilms & Videoclips",
+      "events": "Trouw & Eventvideo's",
+      "all": "Alle"
+    },
+    "modal": {
+      "gallery": "Galerij",
+      "photos": "foto's",
+      "watchYoutube": "Bekijk op YouTube",
+      "close": "Sluiten"
+    }
+  },
+  "contact": {
+    "title": "contact",
+    "emailUs": "e-mail ons",
+    "callUs": "bel ons"
+  },
+  "projects": {
+    "winterEnige": {
+      "title": "winter - de enige",
+      "genre": "videoclip",
+      "desc": "Videoclip voor Winter, een opkomende rapper uit Mechelen, waarin het thema heartbreak centraal staat. De clip volgt een verhaal van een gebroken relatie, de emotionele rollercoaster van het uit elkaar gaan en de kwetsbaarheid van een persoonlijke breakdown. Visueel is er veel aandacht besteed aan intieme close-ups, melancholische kleurcorrecties en een cinematografische sfeer die de emoties van het nummer versterkt. Het project combineerde storytelling, muziek en artistieke beelden tot een meeslepende ervaring."
+    },
+    "deDiefte": {
+      "title": "De Diefte",
+      "genre": "langspeelfilm",
+      "desc": "Langspeelfilm 'De Diefte', een meeslepend drama waarin personages worstelen met morele keuzes en persoonlijke uitdagingen. Het project omvatte volledige regie, camerawerk en montage, met nadruk op cinematografie, belichting en het uitdiepen van karakterontwikkeling. De film speelt zich af in een rauwe stedelijke setting en onderzoekt thema's zoals verraad, vriendschap en de zoektocht naar eigen identiteit. Een intensieve productie die zowel technisch als creatief veel van het team vergde."
+    },
+    "connieBernard": {
+      "title": "Connie & Bernard",
+      "genre": "trouwfilm",
+      "desc": "Trouwfilm voor Connie & Bernard, gefilmd over een volledige dag van ongeveer zes uur. De video legt de intieme, emotionele momenten van de ceremonie, de feestelijkheden en spontane interacties vast. Door gebruik van dynamische camerahoeken, zachte belichting en aandacht voor detail, werd een warme en tijdloze herinnering gecreëerd die het verhaal van hun liefde authentiek weergeeft. Montage met muzikale ondersteuning versterkt de emoties en het ritme van de dag."
+    },
+    "winterFokt": {
+      "title": "winter - fokt",
+      "genre": "videoclip",
+      "desc": "Videoclip voor Winter, geïnspireerd door de zwart-wit esthetiek van de filmklassieker 'La Haine'. Het project legt de rauwe energie van het nummer vast door intensief gebruik van contrastrijke beelden, strakke montages en stedelijke locaties die de sfeer van de tekst versterken. Creatief experiment met camerabewegingen en editing benadrukt de emotionele kracht en visuele stijl, waardoor de videoclip een opvallende artistieke identiteit kreeg."
+    },
+    "yungMutte": {
+      "title": "Yung Mutte - Ondergewaardeerd",
+      "genre": "videoclip",
+      "desc": "Videoclip voor Yung Mutte, een Antwerpse rapper, waarin het thema 'ondergewaardeerd zijn' centraal staat. De clip combineert stedelijke settings, straatinteracties en close-ups van de artiest om de boodschap van het nummer kracht bij te zetten. Door speels gebruik van licht, schaduw en montage werd een visueel aantrekkelijk en emotioneel geladen verhaal gecreëerd dat het karakter en de authenticiteit van Yung Mutte versterkt."
+    },
+    "docuLuik": {
+      "title": "Docu Luik",
+      "genre": "documentaire",
+      "desc": "Documentaire geschoten in Luik, waarin een oude staalfabriek wordt onderzocht. De film is een mix van urbex-onderzoek en historische context, waarbij verlaten industriële ruimtes een mysterieuze en melancholische sfeer creëren. Het project legt niet alleen de fysieke omgeving vast, maar ook de verhalen die de locatie met zich meedraagt. Helaas is de docu momenteel nergens beschikbaar, maar de serie foto's en video's geven een beeld van de ruwe schoonheid en verlatenheid van de fabriek."
+    },
+    "urbexPhotos": {
+      "title": "Urbexing Photos",
+      "genre": "foto's",
+      "desc": "Fotoreeks gemaakt in een verlaten psychiatrisch ziekenhuis in Leuven. De serie legt de rauwe en mysterieuze sfeer vast van vervallen gebouwen, lege gangen en vergeten kamers. Door te spelen met lichtinval, schaduwen en compositie werden krachtige beelden gecreëerd die het verhaal van verlatenheid en vergeten geschiedenis vertellen. Urbex-fotografie gecombineerd met artistieke interpretatie zorgt voor een intrigerende visuele ervaring."
+    },
+    "crodino": {
+      "title": "Crodino Advert",
+      "genre": "advertentie",
+      "desc": "Testadvertentie voor Crodino, ontworpen om het merk op een creatieve en visueel aantrekkelijke manier te promoten. Het project omvatte conceptontwikkeling, storyboard en montage, waarbij speciale aandacht werd besteed aan branding, kleurgebruik en storytelling. De advertentie werd overwogen voor officiële release en biedt een compacte, frisse en energieke presentatie van het product, gericht op de doelgroep."
+    },
+    "drone": {
+      "title": "Drone Showcase",
+      "genre": "showreel",
+      "desc": "Drone showcase van Lennert, waarin zijn vliegkunsten en creatieve shots worden getoond. De video combineert panoramische luchtbeelden, vloeiende bewegingen en dynamische camerahoeken om indrukwekkende perspectieven te creëren. De montage legt de focus op precisie, timing en esthetiek, waardoor een professionele showreel ontstond die zowel technisch als visueel indrukwekkend is en Lennerts vaardigheden als dronepiloot volledig tot hun recht laat komen."
+    }
+  },
+  "Bekijk op YouTube": "Bekijk op Youtube",
+  "sluiten": "sluiten",
+  "videografie op maat": "videografie op maat",
+  "creatieve visie": "creatieve visie",
+  "jouw idee gevisualiseerd": "jouw idee gevisualiseerd",
+  "voor het kleine en grote scherm": "voor het kleine en grote scherm",
+  "videoclip": "videoclip",
+  "langspeelfilm": "langspeelfilm",
+  "documentaire": "documentaire",
+  "foto's": "foto's",
+  "trouwfilm": "trouwfilm",
+  "advertentie": "advertisement",
+  "Galerij": "Gallery",
+  "enige": "Videoclip voor Winter, een opkomende rapper uit Mechelen, waarin het thema heartbreak centraal staat. De clip volgt een verhaal van een gebroken relatie, de emotionele rollercoaster van het uit elkaar gaan en de kwetsbaarheid van een persoonlijke breakdown. Visueel is er veel aandacht besteed aan intieme close-ups, melancholische kleurcorrecties en een cinematografische sfeer die de emoties van het nummer versterkt. Het project combineerde storytelling, muziek en artistieke beelden tot een meeslepende ervaring.",
+  "diefte": "Langspeelfilm 'De Diefte', een meeslepend drama waarin personages worstelen met morele keuzes en persoonlijke uitdagingen. Het project omvatte volledige regie, camerawerk en montage, met nadruk op cinematografie, belichting en het uitdiepen van karakterontwikkeling. De film speelt zich af in een rauwe stedelijke setting en onderzoekt thema’s zoals verraad, vriendschap en de zoektocht naar eigen identiteit. Een intensieve productie die zowel technisch als creatief veel van het team vergde.",
+  "connie": "Trouwfilm voor Connie & Bernard, gefilmd over een volledige dag van ongeveer zes uur. De video legt de intieme, emotionele momenten van de ceremonie, de feestelijkheden en spontane interacties vast. Door gebruik van dynamische camerahoeken, zachte belichting en aandacht voor detail, werd een warme en tijdloze herinnering gecreëerd die het verhaal van hun liefde authentiek weergeeft. Montage met muzikale ondersteuning versterkt de emoties en het ritme van de dag.",
+  "fokt": "Videoclip voor Winter, geïnspireerd door de zwart-wit esthetiek van de filmklassieker 'La Haine'. Het project legt de rauwe energie van het nummer vast door intensief gebruik van contrastrijke beelden, strakke montages en stedelijke locaties die de sfeer van de tekst versterken. Creatief experiment met camerabewegingen en editing benadrukt de emotionele kracht en visuele stijl, waardoor de videoclip een opvallende artistieke identiteit kreeg.",
+  "mutte": "Videoclip voor Yung Mutte, een Antwerpse rapper, waarin het thema 'ondergewaardeerd zijn' centraal staat. De clip combineert stedelijke settings, straatinteracties en close-ups van de artiest om de boodschap van het nummer kracht bij te zetten. Door speels gebruik van licht, schaduw en montage werd een visueel aantrekkelijk en emotioneel geladen verhaal gecreëerd dat het karakter en de authenticiteit van Yung Mutte versterkt.",
+  "Luik": "Documentaire geschoten in Luik, waarin een oude staalfabriek wordt onderzocht. De film is een mix van urbex-onderzoek en historische context, waarbij verlaten industriële ruimtes een mysterieuze en melancholische sfeer creëren. Het project legt niet alleen de fysieke omgeving vast, maar ook de verhalen die de locatie met zich meedraagt. Helaas is de docu momenteel nergens beschikbaar, maar de serie foto’s en video’s geven een beeld van de ruwe schoonheid en verlatenheid van de fabriek.",
+  "Leuven": "Fotoreeks gemaakt in een verlaten psychiatrisch ziekenhuis in Leuven. De serie legt de rauwe en mysterieuze sfeer vast van vervallen gebouwen, lege gangen en vergeten kamers. Door te spelen met lichtinval, schaduwen en compositie werden krachtige beelden gecreëerd die het verhaal van verlatenheid en vergeten geschiedenis vertellen. Urbex-fotografie gecombineerd met artistieke interpretatie zorgt voor een intrigerende visuele ervaring.",
+  "crodino": "Testadvertentie voor Crodino, ontworpen om het merk op een creatieve en visueel aantrekkelijke manier te promoten. Het project omvatte conceptontwikkeling, storyboard en montage, waarbij speciale aandacht werd besteed aan branding, kleurgebruik en storytelling. De advertentie werd overwogen voor officiële release en biedt een compacte, frisse en energieke presentatie van het product, gericht op de doelgroep.",
+  "drone": "Drone showcase van Lennert, waarin zijn vliegkunsten en creatieve shots worden getoond. De video combineert panoramische luchtbeelden, vloeiende bewegingen en dynamische camerahoeken om indrukwekkende perspectieven te creëren. De montage legt de focus op precisie, timing en esthetiek, waardoor een professionele showreel ontstond die zowel technisch als visueel indrukwekkend is en Lennerts vaardigheden als dronepiloot volledig tot hun recht laat komen."
+
+
+}
