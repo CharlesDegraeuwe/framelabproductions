@@ -1,0 +1,9 @@
+services:
+  budget-app-frontend:
+    image: framelab
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: framelab
+    ports:
+      - '80:80'

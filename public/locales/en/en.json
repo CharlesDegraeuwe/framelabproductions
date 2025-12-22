@@ -1,0 +1,178 @@
+{
+  "nav": {
+    "home": "home",
+    "work": "work",
+    "about": "about",
+    "contact": "contact",
+    "contactUs": "contact us",
+    "menu": "Menu",
+    "startProject": "Start a project"
+  },
+  "home": {
+    "heroTagline1": "custom videography",
+    "heroTitle1": "Turning Moments",
+    "heroSubtitle1": "into Motion",
+    "heroTagline2": "creative vision",
+    "heroTitle2": "Stories That",
+    "heroSubtitle2": "Move You",
+    "viewWork": "View our work",
+    "scroll": "Scroll",
+    "whatWeDo": {
+      "title1": "what we",
+      "title2": "do",
+      "description1": "From filming to post-production, we handle the entire creative process with care and attention to detail. Always guided by strong stories and visual impact.",
+      "description2": "Clear communication and close collaboration with our clients are central to everything we do, ensuring each project reflects their unique vision.",
+      "cta": "Start a project"
+    },
+    "services": {
+      "title1": "our",
+      "title2": "services",
+      "brainstorm": {
+        "title": "Brainstorming",
+        "description": "Collaborating with you to generate creative ideas and explore unique concepts."
+      },
+      "production": {
+        "title": "Production",
+        "description": "From concept to execution, we manage all aspects of the filming process."
+      },
+      "postProduction": {
+        "title": "Post-Production",
+        "description": "Seamless editing, color correction, and sound design for the perfect end product."
+      }
+    },
+    "featuredWork": {
+      "title1": "our",
+      "title2": "work",
+      "featured": "Featured Project",
+      "deDiefte": {
+        "title": "De Diefte",
+        "description": "A Belgian detective thriller investigating the notorious theft of the Ghent Altarpiece panels in 1934. We contributed as cameraman and editor for this community-driven film."
+      },
+      "tags": {
+        "cinematography": "Cinematography",
+        "editing": "Editing",
+        "colorGrading": "Color Grading"
+      },
+      "viewAll": "View all projects"
+    },
+    "whoWeAre": {
+      "title1": "who we",
+      "title2": "are",
+      "description1": "We've been working together since 2023, combining our individual skills to create dynamic video content.",
+      "description2": "Lennert is the mastermind behind filming and camera work, while Charles takes the lead in editing, color correction, and post-production.",
+      "cinematography": "Cinematography",
+      "postProduction": "Post-Production",
+      "moreAbout": "More about us"
+    },
+    "cta": {
+      "title1": "Ready to",
+      "title2": "start?",
+      "description": "Let's create something beautiful together. Contact us to discuss your project.",
+      "button": "Get in touch"
+    }
+  },
+  "about": {
+    "title1": "about",
+    "title2": "us",
+    "cinematography": "Cinematography",
+    "postProduction": "Post-Production",
+    "description": {
+      "line1": "Framelab Productions started {{years}} years ago when we met each other.",
+      "line2": "Although we had both already over seven years of experience in editing and photography,",
+      "line3": "we began collaborating by filming our urban exploration adventures.",
+      "line4": "What started as a fun project quickly grew into a passion for cinematography and color grading.",
+      "line5": "Over time, we refined our skills, experimenting with lighting, composition, and post-production,",
+      "line6": "which eventually led to the creation of Framelab Productions — a small but ambitious duo dedicated to crafting visually striking and memorable content."
+    }
+  },
+  "work": {
+    "title1": "our",
+    "title2": "work",
+    "filters": {
+      "corporate": "Corporate Videos & Ads",
+      "shortFilms": "Short Films & Music Videos",
+      "events": "Wedding & Event Videos",
+      "all": "All"
+    },
+    "modal": {
+      "gallery": "Gallery",
+      "photos": "photos",
+      "watchYoutube": "Watch on YouTube",
+      "close": "Close"
+    }
+  },
+  "contact": {
+    "title": "contact",
+    "emailUs": "email us",
+    "callUs": "call us"
+  },
+  "projects": {
+    "winterEnige": {
+      "title": "winter - de enige",
+      "genre": "music video",
+      "desc": "Music video for Winter, an upcoming rapper from Mechelen, centered around the theme of heartbreak. The clip follows a story of a broken relationship, the emotional rollercoaster of breaking up, and the vulnerability of a personal breakdown. Visually, great attention was paid to intimate close-ups, melancholic color corrections, and a cinematic atmosphere that enhances the emotions of the song. The project combined storytelling, music, and artistic visuals into an immersive experience."
+    },
+    "deDiefte": {
+      "title": "De Diefte",
+      "genre": "feature film",
+      "desc": "Feature film 'De Diefte', a gripping drama in which characters struggle with moral choices and personal challenges. The project included full direction, camera work, and editing, with emphasis on cinematography, lighting, and deepening character development. The film is set in a raw urban setting and explores themes such as betrayal, friendship, and the search for one's own identity. An intensive production that demanded a lot from the team both technically and creatively."
+    },
+    "connieBernard": {
+      "title": "Connie & Bernard",
+      "genre": "wedding film",
+      "desc": "Wedding film for Connie & Bernard, filmed over a full day of approximately six hours. The video captures the intimate, emotional moments of the ceremony, festivities, and spontaneous interactions. Through the use of dynamic camera angles, soft lighting, and attention to detail, a warm and timeless memory was created that authentically reflects the story of their love. Editing with musical support enhances the emotions and rhythm of the day."
+    },
+    "winterFokt": {
+      "title": "winter - fokt",
+      "genre": "music video",
+      "desc": "Music video for Winter, inspired by the black-and-white aesthetic of the film classic 'La Haine'. The project captures the raw energy of the track through intensive use of high-contrast images, tight edits, and urban locations that enhance the atmosphere of the lyrics. Creative experimentation with camera movements and editing emphasizes the emotional power and visual style, giving the music video a distinctive artistic identity."
+    },
+    "yungMutte": {
+      "title": "Yung Mutte - Ondergewaardeerd",
+      "genre": "music video",
+      "desc": "Music video for Yung Mutte, an Antwerp rapper, centered around the theme of being 'undervalued'. The clip combines urban settings, street interactions, and close-ups of the artist to reinforce the message of the song. Through playful use of light, shadow, and editing, a visually attractive and emotionally charged story was created that enhances the character and authenticity of Yung Mutte."
+    },
+    "docuLuik": {
+      "title": "Docu Luik",
+      "genre": "documentary",
+      "desc": "Documentary shot in Liège, exploring an old steel factory. The film is a mix of urbex exploration and historical context, where abandoned industrial spaces create a mysterious and melancholic atmosphere. The project captures not only the physical environment but also the stories the location carries. Unfortunately, the documentary is currently unavailable anywhere, but the series of photos and videos give an impression of the raw beauty and abandonment of the factory."
+    },
+    "urbexPhotos": {
+      "title": "Urbexing Photos",
+      "genre": "photos",
+      "desc": "Photo series taken in an abandoned psychiatric hospital in Leuven. The series captures the raw and mysterious atmosphere of dilapidated buildings, empty corridors, and forgotten rooms. By playing with light incidence, shadows, and composition, powerful images were created that tell the story of abandonment and forgotten history. Urbex photography combined with artistic interpretation provides an intriguing visual experience."
+    },
+    "crodino": {
+      "title": "Crodino Advert",
+      "genre": "advertisement",
+      "desc": "Test advertisement for Crodino, designed to promote the brand in a creative and visually appealing way. The project included concept development, storyboard, and editing, with special attention to branding, color usage, and storytelling. The advertisement was considered for official release and offers a compact, fresh, and energetic presentation of the product, aimed at the target audience."
+    },
+    "drone": {
+      "title": "Drone Showcase",
+      "genre": "showreel",
+      "desc": "Drone showcase by Lennert, demonstrating his flying skills and creative shots. The video combines panoramic aerial footage, smooth movements, and dynamic camera angles to create impressive perspectives. The editing focuses on precision, timing, and aesthetics, resulting in a professional showreel that is both technically and visually impressive, fully showcasing Lennert's skills as a drone pilot."
+    }
+  },
+  "Bekijk op YouTube": "Check on Youtube",
+  "sluiten": "close",
+  "videografie op maat": "customized videography",
+  "creatieve visie": "creative vision",
+  "jouw idee gevisualiseerd": "your idea visualised",
+  "voor het kleine en grote scherm": "for the small and big screen",
+  "videoclip": "videoclip",
+  "langspeelfilm": "motion picture",
+  "documentaire": "docu",
+  "foto's": "photos",
+  "trouwfilm": "marriage film",
+  "advertentie": "advertisement",
+  "Galerij": "Gallery",
+  "enige": "Music video for Winter, an emerging rapper from Mechelen, centered around the theme of heartbreak. The clip follows the story of a broken relationship, the emotional rollercoaster of separation, and the vulnerability of a personal breakdown. Visually, strong emphasis is placed on intimate close-ups, melancholic color grading, and a cinematic atmosphere that enhances the emotions of the song. The project combined storytelling, music, and artistic visuals into an immersive experience.",
+  "diefte": "Feature film 'De Diefte', a gripping drama in which characters struggle with moral choices and personal challenges. The project included full direction, cinematography, and editing, with a strong focus on visual storytelling, lighting, and in-depth character development. Set in a raw urban environment, the film explores themes such as betrayal, friendship, and the search for personal identity. An intensive production that demanded a great deal both technically and creatively from the team.",
+  "connie": "Wedding film for Connie & Bernard, filmed over the course of a full day of approximately six hours. The video captures intimate and emotional moments from the ceremony, celebrations, and spontaneous interactions. Through the use of dynamic camera angles, soft lighting, and attention to detail, a warm and timeless memory was created that authentically reflects the story of their love. Editing with musical support enhances the emotions and rhythm of the day.",
+  "fokt": "Music video for Winter, inspired by the black-and-white aesthetic of the cult film classic 'La Haine'. The project captures the raw energy of the track through high-contrast imagery, tight editing, and urban locations that reinforce the mood of the lyrics. Creative experimentation with camera movement and editing emphasizes the emotional impact and visual style, giving the music video a strong and distinctive artistic identity.",
+  "mutte": "Music video for Yung Mutte, an Antwerp-based rapper, centered around the theme of being undervalued. The clip combines urban environments, street interactions, and close-ups of the artist to strengthen the message of the song. Through playful use of light, shadow, and editing, a visually engaging and emotionally charged narrative was created that enhances Yung Mutte’s character and authenticity.",
+  "Luik": "Documentary shot in Liège, exploring an old steel factory. The film blends urbex exploration with historical context, where abandoned industrial spaces create a mysterious and melancholic atmosphere. The project captures not only the physical environment but also the stories embedded within the location. Unfortunately, the documentary is currently unavailable, but a series of photos and videos convey the raw beauty and desolation of the factory.",
+  "Leuven": "Photo series created in an abandoned psychiatric hospital in Leuven. The series captures the raw and mysterious atmosphere of decaying buildings, empty corridors, and forgotten rooms. By playing with natural light, shadows, and composition, powerful images were created that tell a story of abandonment and forgotten history. Urbex photography combined with artistic interpretation results in an intriguing visual experience.",
+  "crodino": "Spec commercial for Crodino, designed to promote the brand in a creative and visually appealing way. The project included concept development, storyboarding, and editing, with special attention to branding, color usage, and storytelling. The advertisement was considered for official release and delivers a compact, fresh, and energetic presentation of the product, tailored to the target audience.",
+  "drone": "Drone showcase for Lennert, highlighting his flying skills and creative shots. The video combines panoramic aerial views, smooth movements, and dynamic camera angles to create impressive perspectives. The edit focuses on precision, timing, and aesthetics, resulting in a professional showreel that is both technically and visually impressive, fully showcasing Lennert’s abilities as a drone pilot."
+}
