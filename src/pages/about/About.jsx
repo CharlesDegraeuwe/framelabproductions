@@ -2,13 +2,16 @@ import { useTranslation } from "react-i18next";
 import lennert from "../../../public/assets/about/lennert.jpeg";
 import charles from "../../../public/assets/about/charles.jpg";
 import lennert2 from "../../../public/assets/about/diefte.jpg";
+import {Helmet} from "react-helmet-async";
+import SEO from "../../seo/Seo.jsx";
 
 export default function About() {
 	const { t } = useTranslation();
 	const date = new Date().getFullYear();
 	const years = date - 2022;
 
-	return (
+	return (<>
+			<SEO page="about" />
 		<div className="w-full h-full flex flex-col gap-2 px-4 pt-40 md:px-10 md:pt-20 items-center justify-center font-sfpro">
 			<div className="w-full flex flex-row items-centrum gap-3 pt-40 md:pt-0 md:gap-5">
                 <span className="font-miller font-stretch-extra-expanded font-extralight uppercase italic text-5xl sm:text-6xl md:text-[8vh]">
@@ -50,5 +53,6 @@ export default function About() {
 				<img src={lennert2} alt="Team" className="w-full h-full object-cover rounded-sm saturate-0" />
 			</div>
 		</div>
+		</>
 	);
 }

@@ -8,6 +8,7 @@ import About from "./pages/about/About.jsx";
 import Contact from "./pages/contact/Contact.jsx";
 import Work from "./pages/work/Work.jsx";
 import "./i18n.js";
+import {HelmetProvider} from "react-helmet-async";
 
 const router = createBrowserRouter([
 	{
@@ -38,6 +39,8 @@ const router = createBrowserRouter([
 ]);
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-	  <RouterProvider router={router} />
+	  <HelmetProvider>
+		  <RouterProvider router={router} />
+	  </HelmetProvider>
   </StrictMode>,
 )
