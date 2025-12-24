@@ -9,6 +9,7 @@ import Contact from "./pages/contact/Contact.jsx";
 import Work from "./pages/work/Work.jsx";
 import "./i18n.js";
 import {HelmetProvider} from "react-helmet-async";
+import Chas from "./pages/chas/Chas.jsx";
 
 const router = createBrowserRouter([
 	{
@@ -33,6 +34,10 @@ const router = createBrowserRouter([
 			{
 				path: "/work",
 				element: <Work/>,
+			},
+			{
+				path: "/chas",
+				element: <Chas/>,
 			},
 		]
 	}
