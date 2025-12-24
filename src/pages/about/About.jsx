@@ -34,6 +34,7 @@ export default function About() {
 						<a href="https://www.instagram.com/charles115611/">
 							<span className="text-xl font-bold">Charles Degraeuwe</span>
 						</a>
+						<span title={"ondernemingsnummer"} className={"opacity-30 font-light"}>1031.978.347</span>
 					</div>
 				</div>
 				<div className="w-full md:w-1/2 h-full flex flex-col gap-5 mt-4 md:mt-0">
