@@ -28,6 +28,8 @@ export default function About() {
 						<a href="https://www.instagram.com/lennertdev/">
 							<span className="text-xl font-bold">Lennert Devlaminck</span>
 						</a>
+						<span title={"ondernemingsnummer"} className={"opacity-30 font-light"}>1032.111.474</span>
+
 					</div>
 					<div className="h-auto md:h-1/2 w-full flex flex-col gap-2">
 						<span className="opacity-50 font-light">{t("about.postProduction")}</span>
